@@ -1,0 +1,60 @@
+======DisplayList=========
+ PPS Number:2
+ First Name:nicole
+ Second Name:duddy
+ Year born: 1998
+ Email: nicole@gmail.com
+Area travelled from:
+Traveled from Galway county
+Type of ticket purchased:
+Luxury ticket
+Trips made to the cinema per year:
+Less than 5 times per year
+average spend on cinema shop:
+Less than 5 euro
+++++++++++++++++++++++++++++
+======DisplayList=========
+ PPS Number:3
+ First Name:frankie
+ Second Name:smith
+ Year born: 1965
+ Email: frankie@gmail.com
+Area travelled from:
+Traveled from Connacht
+Type of ticket purchased:
+Normal Ticket
+Trips made to the cinema per year:
+More than 5 times per year
+average spend on cinema shop:
+Less than 10 euro
+++++++++++++++++++++++++++++
+======DisplayList=========
+ PPS Number:4
+ First Name:mammy
+ Second Name:duddy
+ Year born: 1980
+ Email: mammy@gmail.com
+Area travelled from:
+Traveled from other areas in Ireland
+Type of ticket purchased:
+Luxury ticket
+Trips made to the cinema per year:
+Less than 3 times per year
+average spend on cinema shop:
+More than 10 euro
+++++++++++++++++++++++++++++
+======DisplayList=========
+ PPS Number:6
+ First Name:granny
+ Second Name:toland
+ Year born: 1955
+ Email: granny@gmail.com
+Area travelled from:
+Traveled from other areas in Ireland
+Type of ticket purchased:
+Normal Ticket
+Trips made to the cinema per year:
+Less than 5 times per year
+average spend on cinema shop:
+Less than 5 euro
+++++++++++++++++++++++++++++

@@ -1,0 +1,93 @@
+﻿  main.c
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(150,31): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(153,32): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(166,31): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(169,32): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(182,28): warning C4133: 'function': incompatible types - from 'node **' to 'node **'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(194,25): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(198,23): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(199,24): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(220,21): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(85,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(91,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(121,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(147,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(163,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(181,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(216,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(68,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(257,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(266,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(274,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(283,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(314,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(317,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(320,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(323,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(328,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(337,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(340,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(346,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(353,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(372,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(375,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(378,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(381,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(386,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(395,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(398,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(404,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(411,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(428,31): warning C4028: formal parameter 1 different from declaration
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(439,13): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(546,43): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(547,12): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(559,13): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(551,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(541,6): warning C4101: 'option': unreferenced local variable
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(670,43): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(671,12): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(685,13): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(676,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(665,6): warning C4101: 'option': unreferenced local variable
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(789,43): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(790,12): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(795,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(809,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(812,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(815,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(818,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(823,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(832,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(835,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(841,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(848,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(881,44): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(882,13): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(886,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(902,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(905,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(908,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(911,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(916,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(925,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(928,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(934,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(941,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(978,20): warning C4133: '=': incompatible types - from 'NodeT_ *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(973,1): warning C4133: 'initializing': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1011,43): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1012,16): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1015,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1116,43): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1118,16): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1119,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1223,15): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1229,14): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1229,26): warning C4133: 'function': incompatible types - from 'NodeT_ *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1210,16): warning C4101: 'i': unreferenced local variable
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1243,18): warning C4028: formal parameter 1 different from declaration
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1243,27): warning C4028: formal parameter 2 different from declaration
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(1275,13): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\Dell\source\repos\Project2021\Project2021\main.c(303): warning C4715: 'verifyLogin': not all control paths return a value
+  Project2021.vcxproj -> C:\Users\Dell\source\repos\Project2021\Debug\Project2021.exe
